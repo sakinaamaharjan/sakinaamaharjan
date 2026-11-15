@@ -4,7 +4,7 @@
 
 *somewhere between data, design, & doing good*
 
-data science student · frontend learner · development & MEAL
+data science student · development & MEAL
 
 [portfolio](https://sakinaamaharjan.github.io/personal-portfolio/)
 · [github](https://github.com/sakinaamaharjan)
